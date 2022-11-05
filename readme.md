@@ -15,6 +15,8 @@ Você deve criar as funcionalidades para as três funções presentes nesse arqu
 - **handleToggleTaskCompletion:** Deve alterar o status de `isComplete` para uma task com um ID específico que é recebido por parâmetro.
 - **handleRemoveTask:** Deve receber um ID por parâmetro e remover a task que contém esse ID do estado.
 
-## Inicialização:
-### Yarn
-### Yarn dev
+## Inicialização pelo terminal:
+```bash
+Yarn
+Yarn dev
+```
